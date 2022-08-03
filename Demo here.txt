@@ -1,0 +1,10 @@
+package com.bikkadit.practice;
+
+public class Student{
+
+public static void main(String[]args){
+
+system.out.println("My name is sagar")
+
+}
+}
